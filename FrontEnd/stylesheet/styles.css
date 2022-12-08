@@ -1,2 +1,24 @@
+body{
+    margin: 10px;
+    padding: 5px;
+}
+
 h1 {color: #C70039;}
-h2 {color:#d03561}
+h2 {color:#d03561;
+    text-shadow: #330110 1px 0 10px;;
+}
+.BloqueTarjeta {
+    background-color:rgb(251, 223, 231) ;
+    color: #330110;
+
+padding: 5px;
+margin: 10px;
+}
+.botonesRedes{
+margin: 10xp;
+float: right;
+}
+.imgboton{
+    border-radius: 50%;
+
+}
